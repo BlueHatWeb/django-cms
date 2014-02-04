@@ -1,7 +1,7 @@
 ##########
 django CMS
 ##########
-
+Test
 A Django application for managing hierarchical pages of content, possibly in
 multiple languages and/or on multiple sites.
 
